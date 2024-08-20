@@ -1,0 +1,10 @@
+langVersion: v1
+name: gl-1
+ui:
+  name: gl-1
+tasks:
+  - name: echo
+    task: Utils/echo@1.0.0
+    params:
+      string: a
+
